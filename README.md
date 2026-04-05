@@ -1,6 +1,6 @@
 # Object Detector
 
-An example of ML.NET from Microsoft using Ultralytics YOLO26 ImageNet dataset
+An application of object detector using ML.NET from Microsoft and YOLO26 ImageNet dataset from Ultralytics
 
 Copyright (c) 2026 Ercan Ersoy (https://ercanersoy.net)
 This project is licensed under MIT License.
