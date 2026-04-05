@@ -3,6 +3,7 @@
 An application of object detector using ML.NET from Microsoft and YOLO26 ImageNet dataset from Ultralytics
 
 Copyright (c) 2026 Ercan Ersoy (https://ercanersoy.net)
+
 This project is licensed under MIT License.
 
 ## Requirements
